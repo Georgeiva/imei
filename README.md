@@ -1,0 +1,2 @@
+# imei
+Liberar locked
